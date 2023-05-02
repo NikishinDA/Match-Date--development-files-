@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a3307aa9340a0f3429a1b11151288cd0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - ARCO Typography
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a1c948b491b98d4459f3a3159dc3ba22, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
